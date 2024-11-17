@@ -1,0 +1,15 @@
+Precautions
+	1)Execute it on command prompt (cmd)
+		Method: 
+			1) Press Window Key + R 
+			2) Type cmd and press Enter
+			3) write representationOfIntegers on command propt to execute file
+	
+	2) Require File
+		Your folder must contain headerFiles with all files ( app.h and calculation.h) and representationOfIntegers.cpp file
+
+Develop By: 
+	Name : Hafiz Muhammad Hamza
+	Registration No : 2024-CS-2
+	Semester : 1
+	Assignment : Discrete Math
